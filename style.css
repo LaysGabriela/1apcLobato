@@ -12,4 +12,7 @@ body {
 .button{
 display: inline-block;
 }
-
+.lgs{
+    background-image: url(wond-bannerimg-desk_tcm1069-228187.jpg);
+    border: 2px;
+}
